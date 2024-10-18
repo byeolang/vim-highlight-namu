@@ -1,11 +1,17 @@
-# (neo)vim syntax highlighting for Namu language
+# (Neo)Vim syntax highlight for `namu` language
 
-## How to install
+# How to install
 
 * first checks the vim's runtime path.
 * if you're using 'lua neovim', then you can try it easily by typing
     `:lua print(vim.inspect(vim.api.nvim_list_runtime_paths()))` in your vim.
     * it's usally located at `~/.config/nvim/`, but can be different by OS or kind of 32bit things.
-* and then download latest release binary and unzip in your runtimepath folder.
+ <br/>
+ 
+* and then download [latest release binary](https://github.com/namulang/vim-highlight-namu/releases/latest) and unzip in your runtimepath folder.
+    * there should be `<yourRuntimePath>/ftdetect, <yourRuntimePath>/syntax` folders.
+ <br/>
+
+ 
 * after that, please quit your vim if it's running.
 * you may need to check whether you've write `set syntax=on` on your `.vimrc` file.
