@@ -1,7 +1,7 @@
-" Namu language vim syntax file
-" language: namu
+" byeol language vim syntax file
+" language: byeol
 " author: kniz
-" website: https://namu.codes
+" website: https://byeol.io
 " version: v0.2.8
 " date: Nov 15 2024
 
@@ -53,4 +53,4 @@ let b:spell_options="contained"
 let &cpo = s:cpo_save
 unlet s:cpo_save
 
-let b:current_syntax = "nm"
+let b:current_syntax = "byeol"

@@ -1,4 +1,4 @@
-# (Neo)Vim syntax highlight for `namu` language
+# (Neo)Vim syntax highlight for `byeol` language
 
 # How to install
 
@@ -8,7 +8,7 @@
     * it's usally located at `~/.config/nvim/`, but can be different by OS or kind of 32bit things.
  <br/>
  
-* and then download [latest release binary](https://github.com/namulang/vim-highlight-namu/releases/latest) and unzip in your runtimepath folder.
+* and then download [latest release binary](https://github.com/byeolang/vim-highlight-byeol/releases/latest) and unzip in your runtimepath folder.
     * there should be `<yourRuntimePath>/ftdetect, <yourRuntimePath>/syntax` folders.
  <br/>
 
